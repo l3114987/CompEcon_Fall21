@@ -1,0 +1,4 @@
+1. cd C:\Users\MSB\Dropbox\USC_PHD\☆FA21\ECON833_Jason DeBacker\CompEcon_Fall21\ProblemSets
+2. git add filename
+3. git commit -m "Description"
+4. git push origin ProblemSets
